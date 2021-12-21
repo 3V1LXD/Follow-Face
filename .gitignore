@@ -1,7 +1,9 @@
-/build.zip
 /FollowFace.afdesign
 /FollowFace.png
-/old
 /tempCodeRunnerFile.py
 /test.py
-/__pycache__
+/FollowFace.ico
+/FollowFace.spec
+__pycache__
+old
+output
